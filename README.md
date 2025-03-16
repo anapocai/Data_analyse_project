@@ -89,6 +89,18 @@ It includes multiple visualizations, including:
    - After exploring the first dashboard, you can view the second dashboard by opening `Ana.ipynb` in Jupyter Notebook or JupyterLab.
    - Execute the cells related to the second dashboard within the notebook to launch the interactive visualization for the second dashboard.
 
+### Key Visualizations
+
+#### 1. Average GPA Comparison (Women vs. Men)
+This visualization compares the average GPA of women and men before entering the university. It shows that, on average, women tend to have higher GPAs before admission to university.
+
+![Average GPA Comparison (Women vs. Men)](avgGPA.png)
+
+#### 2. Treemap: Percentage of Women in STEM Fields by Topic
+This treemap visualizes the percentage of women in different subjects over the years, highlighting that subjects like Chemistry and Biology have higher female representation compared to other fields.
+
+![Treemap: Percentage of Women in STEM Fields](treemaps_pwoman.png)
+
 ### Conclusion
 The project aims to shed light on the gender disparities in STEM fields and provide insights into the challenges women face in these areas. The findings suggest that women have to exert more effort to enter and succeed in fields such as Mechanics, Mathematics, Physics, and Engineering.
 
