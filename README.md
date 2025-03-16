@@ -75,8 +75,9 @@ It includes multiple visualizations, including:
 ### Running the Project:
 1. Clone the repository and navigate to the project directory:
 ```bash
-  git clone <repository-url>
-  cd <repository-directory>
+  git clone https://github.com/your-username/Exploring-the-Gender-Disparity-in-University.git
+    cd Exploring-the-Gender-Disparity-in-University
+
 ```
 2. Run the first dashboard:
    - Open the `dashboard.py` file to start the first dashboard.
